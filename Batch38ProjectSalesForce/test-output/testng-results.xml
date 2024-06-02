@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-30T21:43:36 EDT" name="Default suite" finished-at="2024-05-30T21:43:42 EDT" duration-ms="6133">
+  <suite started-at="2024-06-01T23:23:25 EDT" name="Default suite" finished-at="2024-06-01T23:23:32 EDT" duration-ms="6692">
     <groups>
     </groups>
-    <test started-at="2024-05-30T21:43:36 EDT" name="Default test" finished-at="2024-05-30T21:43:42 EDT" duration-ms="6133">
-      <class name="com.salesforce.TestCase2">
-        <test-method signature="tc_2()[pri:0, instance:com.salesforce.TestCase2@6574a52c]" started-at="2024-05-30T21:43:36 EDT" name="tc_2" finished-at="2024-05-30T21:43:42 EDT" duration-ms="6088" status="PASS">
+    <test started-at="2024-06-01T23:23:25 EDT" name="Default test" finished-at="2024-06-01T23:23:32 EDT" duration-ms="6692">
+      <class name="com.salesforce.TestCase5">
+        <test-method signature="tc_3()[pri:0, instance:com.salesforce.TestCase5@6574a52c]" started-at="2024-06-01T23:23:25 EDT" name="tc_3" finished-at="2024-06-01T23:23:31 EDT" duration-ms="6661" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- tc_2 -->
-      </class> <!-- com.salesforce.TestCase2 -->
+        </test-method> <!-- tc_3 -->
+      </class> <!-- com.salesforce.TestCase5 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

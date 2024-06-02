@@ -46,6 +46,8 @@ public class TestCase1 {
     	else {
     		System.out.println("Error message is not displayed then Test case Failed ");
     	}
+    
+    driver.quit();
     }
 	
 	

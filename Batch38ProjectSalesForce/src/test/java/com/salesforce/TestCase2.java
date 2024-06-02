@@ -47,7 +47,7 @@ WebDriver driver;
 		   System.out.println("user name is not displayed then test case is failed");
 	   }
 	
-
+	   driver.quit();
 
 	}}
 	
